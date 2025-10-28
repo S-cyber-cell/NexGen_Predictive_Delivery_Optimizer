@@ -1,0 +1,21 @@
+order_id,promised_delivery_hours,actual_delivery_hours,status,rating,delivery_cost
+1001,114,113,Delayed,1,416
+1002,31,103,Delayed,4,767
+1003,112,31,In Transit,5,758
+1004,59,34,In Transit,4,691
+1005,45,52,Delayed,5,113
+1006,52,109,Delivered,3,554
+1007,34,152,Delayed,4,623
+1008,61,50,Delayed,3,500
+1009,34,152,In Transit,4,666
+1010,50,153,Delivered,5,336
+1011,43,71,Delivered,2,585
+1012,115,41,Delayed,3,673
+1013,96,81,Delayed,2,456
+1014,81,61,Delivered,3,438
+1015,25,47,In Transit,2,241
+1016,37,141,In Transit,3,215
+1017,97,42,Delayed,3,555
+1018,52,136,Delivered,1,398
+1019,61,118,Delayed,4,723
+1020,107,89,In Transit,3,781
