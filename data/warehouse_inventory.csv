@@ -1,0 +1,6 @@
+warehouse_id,location,product_category,stock_level,reorder_level,storage_cost,last_restocked_date
+1,Mumbai,Electronics,378,371,19143,2025-08-01
+2,Delhi,Fashion,1205,55,5436,2025-08-16
+3,Bangalore,Food,1160,357,9504,2025-08-31
+4,Chennai,Healthcare,1514,195,18755,2025-09-15
+5,Kolkata,Books,377,482,19087,2025-09-30

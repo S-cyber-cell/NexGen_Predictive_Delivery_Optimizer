@@ -1,0 +1,21 @@
+order_id,order_date,priority,product_category,origin,destination,customer_segment,order_value,special_handling
+1001,2025-09-01,Standard,Books,Delhi,Hong Kong,SMB,3794,Perishable
+1002,2025-09-02,Express,Electronics,Kolkata,Delhi,Individual,4092,None
+1003,2025-09-03,Express,Food,Chennai,Bangkok,Individual,1204,Perishable
+1004,2025-09-04,Express,Healthcare,Kolkata,Hong Kong,SMB,1403,Fragile
+1005,2025-09-05,Express,Fashion,Delhi,Bangkok,Individual,3340,Fragile
+1006,2025-09-06,Standard,Books,Chennai,Delhi,Enterprise,4303,None
+1007,2025-09-07,Economy,Fashion,Bangalore,Dubai,SMB,3728,Perishable
+1008,2025-09-08,Express,Fashion,Delhi,Hong Kong,SMB,1553,Fragile
+1009,2025-09-09,Express,Food,Kolkata,Dubai,Individual,3828,Perishable
+1010,2025-09-10,Economy,Fashion,Kolkata,Hong Kong,Individual,2536,Perishable
+1011,2025-09-11,Standard,Food,Kolkata,Bangkok,Enterprise,751,Fragile
+1012,2025-09-12,Standard,Electronics,Chennai,Hong Kong,Enterprise,836,Perishable
+1013,2025-09-13,Economy,Food,Bangalore,Hong Kong,Enterprise,2740,None
+1014,2025-09-14,Standard,Books,Delhi,Singapore,SMB,1936,Perishable
+1015,2025-09-15,Standard,Food,Bangalore,Singapore,Enterprise,4034,Perishable
+1016,2025-09-16,Express,Food,Mumbai,Singapore,SMB,3525,Fragile
+1017,2025-09-17,Express,Electronics,Delhi,Delhi,Enterprise,4609,Perishable
+1018,2025-09-18,Standard,Books,Bangalore,Hong Kong,Individual,2577,None
+1019,2025-09-19,Economy,Food,Chennai,Singapore,Enterprise,1916,Perishable
+1020,2025-09-20,Economy,Fashion,Kolkata,Hong Kong,Individual,3427,Fragile

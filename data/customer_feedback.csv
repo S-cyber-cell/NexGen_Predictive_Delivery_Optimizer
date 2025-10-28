@@ -1,0 +1,21 @@
+order_id,rating,feedback_text,recommendation_likelihood,issue_category,feedback_date
+1001,3,Customer service was helpful,10,Service,2025-09-10
+1016,2,Great experience,2,Delay,2025-09-11
+1013,4,Customer service was helpful,10,Damage,2025-09-12
+1004,3,Package arrived on time,7,Service,2025-09-13
+1001,5,Delivery was delayed,8,Damage,2025-09-14
+1020,1,Package arrived on time,3,None,2025-09-15
+1016,3,Delivery was delayed,9,Service,2025-09-16
+1012,3,Package arrived on time,4,Service,2025-09-17
+1006,1,Item damaged,6,Damage,2025-09-18
+1018,4,Delivery was delayed,3,Service,2025-09-19
+1017,2,Package arrived on time,2,None,2025-09-20
+1015,4,Customer service was helpful,8,Delay,2025-09-21
+1008,2,Customer service was helpful,7,Service,2025-09-22
+1003,4,Item damaged,6,Delay,2025-09-23
+1020,3,Delivery was delayed,7,Damage,2025-09-24
+1007,1,Great experience,7,None,2025-09-25
+1007,2,Customer service was helpful,1,Damage,2025-09-26
+1018,2,Delivery was delayed,6,Service,2025-09-27
+1019,1,Item damaged,1,Damage,2025-09-28
+1015,2,Item damaged,10,Damage,2025-09-29
